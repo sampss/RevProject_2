@@ -1,4 +1,4 @@
-# RevProject_2
+
 Spark Project for Revature covering Walmart DataSet1
 
 
@@ -20,3 +20,58 @@ we devised these queries based on a Walmart brand guide
 also supplied is our tech stack zepplin and our set-up for Spark using Scala
 covering these topics are Jason Shawn Jessica Brandon and Melissa...
 included is a brief power point with some visualations from Zepplin
+
+
+
+
+
+
+# Walmart Sales Data Analysis
+
+## Project Description
+
+
+
+## Technologies Used
+
+* Scala
+* Spark
+* Zepplin
+* Github
+* Trello
+
+## Features
+
+Queries Performed:
+
+1. 
+
+2.
+
+3. 
+
+4. 
+
+5. 
+
+
+## Getting Started
+
+Clone repo and .... 
+
+## Usage
+
+run 
+
+## Contributors
+
+Brandon
+Jason McClintock
+Jessica Hori
+Melissa
+Shawn Sampson
+
+## License
+
+This project uses the following license: GNU General Public License v3.0. https://www.gnu.org/licenses/gpl-3.0.en.html
+
