@@ -34,7 +34,7 @@ Queries Performed:
 
 ## Getting Started
 
-Clone repo and .... 
+https://github.com/sampss/RevProject_2
 
 ## Usage
 
