@@ -9,11 +9,10 @@ Review, analyze and discuss Walmart sales data from 45 stores between the years 
 
 ## Technologies Used
 
-* Scala
-* Spark
-* Zepplin
-* Github
-* Trello
+* Scala       * Spark
+* YARN        * HDFS
+* MapReduce   * Zepplin
+* Github      * Trello
 
 ## Features
 
