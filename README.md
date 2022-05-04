@@ -42,10 +42,10 @@ run
 
 ## Contributors
 
-Brandon
+Brandon Hanzlick
 Jason McClintock
 Jessica Hori
-Melissa
+Melissa Auclaire
 Shawn Sampson
 
 ## License
