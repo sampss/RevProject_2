@@ -40,7 +40,7 @@ https://github.com/sampss/RevProject_2
 
 ## Usage
 
-run 
+https://github.com/sampss/RevProject_2/tree/main/Spark_set_up
 
 ## Contributors
 
